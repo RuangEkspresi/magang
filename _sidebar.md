@@ -1,0 +1,5 @@
+- [Home](/)
+- [Panduan](/panduan/index.md)
+- [Worksheets](/worksheets/index.md)
+- [Laporan](/laporan/index.md)
+- [Pengumuman](/pengumuman/index.md)
