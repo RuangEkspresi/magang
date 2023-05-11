@@ -2,9 +2,9 @@
 
 Worksheet merupakan tugas individu yang berkaitan dengan scope of project dari mahasiswa yang mangambil magang, Berikut worksheet dari tiap matakuliah sesuai dengan konversi tiap mahasiwa
 
-?> :information_source: MK Wajib konversi yaitu Etika Profesi, MPTI, Kerja Praktek, dan Komunikasi Interpersonal. Tiap Mahasiswa dapat berbeda mata kuliah, mohon cek portal untuk mengetahui MK masing-masing
+?> :information_source: MK Wajib konversi yaitu Etika Profesi, MPTI, Kerja Praktek, dan Komunikasi Interpersonal. Tiap Mahasiswa dapat berbeda mata kuliah, Sesuaikan dengan mata kuliah yang disetujui dosen pembimbing ya.
 
-?> :blue_book: Pengumpulan Worksheet Melalui Classroom (Link Menyusul)
+?> :blue_book: Silahkan salin dokumen worksheet yang akan kalian kerjakan ya(tidak perlu minta izin akses).Pengumpulan Worksheet Melalui Classroom (Link Menyusul)
 
 ## Audit SI/TI
 
@@ -13,6 +13,7 @@ Worksheet merupakan tugas individu yang berkaitan dengan scope of project dari m
 | Worksheet 1 | [Link Worksheet]() |
 | Worksheet 2 | [Link Worksheet]() |
 | Worksheet 3 | [Link Worksheet]() | -->
+
 !> Worksheet Belum Tersedia
 
 ## Etika Profesi
